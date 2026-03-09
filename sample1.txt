@@ -1,0 +1,5 @@
+Alice went to Wonderland on 2024-03-01, 2024/01/03 and on 1800-12-31.
+Bob's email is bob@example.se or bob@example.com and he lives in New York.
+The price of the book is 299,99SEK 299.99 sek ,2se 500.57sek.
+Call me at +46701234567 or 555-987-6543.
+Visit https://www.example.se for more info.

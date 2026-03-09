@@ -1,0 +1,5 @@
+John's birthday is 1990-07-12.
+Contact Jane at jane_doe@mail.com or call 123-456-7890.
+Temperature today is 23°C in Berlin.
+The meeting is scheduled for 14:30 on Friday.
+Order IDs: A123, B456, C789.
