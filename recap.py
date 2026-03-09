@@ -15,8 +15,8 @@ print(x)
 
 # Booleans (True/False) beter sig ibland som siffror under huven.
 # True = 1, False = 0
-y = True + True + True
-print(y)
+y_val = True + True + True
+print(y_val)
 
 # Vi vill printa om en sträng 3 gånger. * fungerar alltså på strängar men inte andra matteoperatorer
 print(3*x) # * på sträng ger upprepning
